@@ -1,4 +1,3 @@
-Aqui está um conteúdo explicando a criação de sua calculadora rosa com botões pretos, incluindo o código HTML, CSS e JavaScript, e um convite para acessar o link do projeto:
 
 ## Minha Calculadora Rosa com Botões Pretos
 
