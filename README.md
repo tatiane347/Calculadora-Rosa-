@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/07a37020-b7bf-496d-9477-5c02ec9e8873)
 
 ## Minha Calculadora Rosa com Botões Pretos
 
